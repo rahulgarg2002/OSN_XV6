@@ -1,9 +1,3 @@
-## Modified xv6-riscv (OSN Assignment 4)
-
-Submitted by:
-- [Vanshpreet Singh Kohli, 2020114014](https://github.com/VKohli17)
-- [Rahul Garg, 2020115006](https://github.com/VanSHOE)
-
 Note: to run with a specific scheduler (FCFS, LBS, PBS, MLFQ, RR) instead of the default (RR), use the following command:
 
 ```bash
